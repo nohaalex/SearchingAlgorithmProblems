@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\SearchingAlgorithmProblems\SearchingAlgorithmProblems\bin\Debug\net7.0\SearchingAlgorithmProblems.exe
+C:\Users\Lenovo\source\repos\SearchingAlgorithmProblems\SearchingAlgorithmProblems\bin\Debug\net7.0\SearchingAlgorithmProblems.deps.json
+C:\Users\Lenovo\source\repos\SearchingAlgorithmProblems\SearchingAlgorithmProblems\bin\Debug\net7.0\SearchingAlgorithmProblems.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SearchingAlgorithmProblems\SearchingAlgorithmProblems\bin\Debug\net7.0\SearchingAlgorithmProblems.dll
+C:\Users\Lenovo\source\repos\SearchingAlgorithmProblems\SearchingAlgorithmProblems\bin\Debug\net7.0\SearchingAlgorithmProblems.pdb
+C:\Users\Lenovo\source\repos\SearchingAlgorithmProblems\SearchingAlgorithmProblems\obj\Debug\net7.0\SearchingAlgorithmProblems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\SearchingAlgorithmProblems\SearchingAlgorithmProblems\obj\Debug\net7.0\SearchingAlgorithmProblems.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SearchingAlgorithmProblems\SearchingAlgorithmProblems\obj\Debug\net7.0\SearchingAlgorithmProblems.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SearchingAlgorithmProblems\SearchingAlgorithmProblems\obj\Debug\net7.0\SearchingAlgorithmProblems.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SearchingAlgorithmProblems\SearchingAlgorithmProblems\obj\Debug\net7.0\SearchingAlgorithmProblems.dll
+C:\Users\Lenovo\source\repos\SearchingAlgorithmProblems\SearchingAlgorithmProblems\obj\Debug\net7.0\refint\SearchingAlgorithmProblems.dll
+C:\Users\Lenovo\source\repos\SearchingAlgorithmProblems\SearchingAlgorithmProblems\obj\Debug\net7.0\SearchingAlgorithmProblems.pdb
+C:\Users\Lenovo\source\repos\SearchingAlgorithmProblems\SearchingAlgorithmProblems\obj\Debug\net7.0\SearchingAlgorithmProblems.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\SearchingAlgorithmProblems\SearchingAlgorithmProblems\obj\Debug\net7.0\ref\SearchingAlgorithmProblems.dll
